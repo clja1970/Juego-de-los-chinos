@@ -67,8 +67,6 @@ public class ClaseControlador implements ActionListener,WindowListener, ItemList
 			objVistaPrincipal.lblChinosTres.setVisible(true);
 			objVistaPrincipal.txtGuardaTres.setText("");
 		}
-
-
 	}
 
 	@Override
